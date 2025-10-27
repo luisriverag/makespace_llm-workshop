@@ -1,5 +1,6 @@
 {
     "notebook.output.wordWrap": true,
     "notebook.output.scrolling": false,
-    "notebook.output.textLineLimit": 100
+    "notebook.output.textLineLimit": 100,
+    "editor.fontSize": 12
 }
